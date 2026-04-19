@@ -1,0 +1,10 @@
+Array
+(
+    [monday] => 
+    [tuesday] => 
+    [wednesday] => 1
+    [thursday] => 
+    [friday] => 
+    [saturday] => 
+    [sunday] => 
+)
